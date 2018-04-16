@@ -13,7 +13,7 @@ address:
   code: Some Institute of Technology
 - address: Department, Street, City, State, Zip
   code: Another University
-output:rticles:: elsevier_article
+output:
   word_document:
     reference_docx: docs/academicword.docx
 csl: docs/spanish-journal-of-marketing-esic.csl

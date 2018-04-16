@@ -1,5 +1,5 @@
-name: Elsevier Journal Article
+name: Word Article
 description: >
- Template for creating an article for submission to any Elsevier journal
+ Template for creating an article in word
 create_dir: true
 

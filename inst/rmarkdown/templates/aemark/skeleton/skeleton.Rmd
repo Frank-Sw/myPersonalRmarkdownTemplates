@@ -1,10 +1,10 @@
 ---
 title: "Título del documento"
 lang: es-ES
-keywords: VEPP
+keywords: Aemark
 bibliography: "D:/Dropbox/2_ Investigacion/4_Referencias/library.bib"
 csl: docs/spanish-journal-of-marketing-esic.csl
-mainfont: Calibri
+mainfont: Avenir LT Std 45 Book
 output: 
   pdf_document: 
     latex_engine: xelatex

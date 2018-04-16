@@ -1,21 +1,16 @@
 ---
 title: "Título del documento"
 lang: es-ES
-keywords: VEPP
+keywords: Mónica
 bibliography: "D:/Dropbox/2_ Investigacion/4_Referencias/library.bib"
 csl: docs/spanish-journal-of-marketing-esic.csl
-mainfont: Calibri
+mainfont: Roboto
 output: 
   pdf_document: 
     latex_engine: xelatex
     includes:
       in_header: code/preambulo.tex
     number_sections: yes
-  word_document: 
-    df_print: kable
-    fig_height: 5
-    fig_width: 5
-    reference_docx: docs/word_styles_InformePlan.docx    
   html_document:
     fig_height: 6
     fig_width: 6

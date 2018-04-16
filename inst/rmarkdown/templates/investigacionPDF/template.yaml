@@ -1,5 +1,5 @@
-name: Elsevier Journal Article
+name: Research Article pdf
 description: >
- Template for creating an article for submission to any Elsevier journal
+ Template for creating an article in Elsevier style
 create_dir: true
 

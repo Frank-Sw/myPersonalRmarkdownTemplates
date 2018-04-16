@@ -1,0 +1,4 @@
+name: General pdf
+description: >
+   Plantilla general para uso en pdf
+create_dir: true
