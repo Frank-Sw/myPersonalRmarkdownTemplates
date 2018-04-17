@@ -1,6 +1,5 @@
 ---
 title: "Título del documento"
-lang: es-ES
 keywords: Mónica
 bibliography: "D:/Dropbox/2_ Investigacion/4_Referencias/library.bib"
 csl: docs/spanish-journal-of-marketing-esic.csl
@@ -32,6 +31,8 @@ library(kableExtra)
 library(formattable)
 library(dplyr)
 
+# set any missing NAs in tables to blank
+options(knitr.kable.NA='')
 ```
 
 
